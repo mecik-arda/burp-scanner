@@ -351,3 +351,7 @@ curl http://127.0.0.1:11434/api/tags
 Burp kayıtları oturum cookie'leri, erişim tokenları, kişisel veriler ve özel uygulama yanıtları içerebilir. Gerçek trafik XML dosyaları, raporlar, model dosyaları ve yerel cache dizinleri `.gitignore` kapsamındadır. Bu dosyalar GitHub deposuna eklenmemelidir.
 
 Aracı yalnızca yazılı veya açık test yetkinizin bulunduğu hedeflerde kullanın.
+
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) altında yayımlanır. Lisans, yazılımın kullanımına, değiştirilmesine, dağıtılmasına ve ticari olarak değerlendirilmesine izin verir; yazılım herhangi bir garanti olmadan sunulur.
