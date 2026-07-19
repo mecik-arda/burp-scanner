@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items burpVersion="synthetic">
+  <item>
+    <time>Sun Jul 19 12:00:00 TRT 2026</time>
+    <url>https://demo.local/login</url>
+    <host ip="127.0.0.1">demo.local</host>
+    <port>443</port>
+    <protocol>https</protocol>
+    <method>POST</method>
+    <path>/login</path>
+    <status>500</status>
+    <responselength>200</responselength>
+    <mimetype>HTML</mimetype>
+    <request base64="true">UE9TVCAvbG9naW4gSFRUUC8xLjENCkhvc3Q6IGRlbW8ubG9jYWwNCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbg0KQXV0aG9yaXphdGlvbjogQmVhcmVyIHN1cGVyLXNlY3JldC10b2tlbg0KDQp7InVzZXJuYW1lIjoiYWxpY2VAZXhhbXBsZS5jb20iLCJwYXNzd29yZCI6Imh1bnRlcjIifQ==</request>
+    <response base64="true">SFRUUC8xLjEgNTAwIEludGVybmFsIFNlcnZlciBFcnJvcg0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWwNClNlcnZlcjogRGVtb1NlcnZlci8xLjINClNldC1Db29raWU6IHNlc3Npb249YWJjMTIzOyBQYXRoPS8NCg0KPGh0bWw+PGJvZHk+VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOiBkYXRhYmFzZSBlcnJvcjwvYm9keT48L2h0bWw+</response>
+    <comment>Authorized synthetic test data</comment>
+  </item>
+</items>
